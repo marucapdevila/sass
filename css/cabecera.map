@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "cabecera.css",
+	"sources": [
+		"../scss/cabecera.scss"
+	],
+	"sourcesContent": [
+		"header{\r\n    h1{color: yellowgreen;\r\n    background-color: aqua;}}"
+	],
+	"names": [],
+	"mappings": ";AAAA,AACI,MADE,CACF,EAAE,CAAA;EAAC,KAAK,EAAE,WAAW;EACrB,gBAAgB,EAAE,IAAI;CAAE"
+}

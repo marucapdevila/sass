@@ -1,0 +1,33 @@
+/* line 2, ../../../OneDrive/Escritorio/sass/scss/sass2.scss */
+header {
+  width: 1440px;
+}
+
+/* line 6, ../../../OneDrive/Escritorio/sass/scss/sass2.scss */
+.extend h2, .extend2 h2 {
+  color: orange;
+  background-color: gold;
+  font-size: 24px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* line 11, ../../../OneDrive/Escritorio/sass/scss/sass2.scss */
+.extend h2 p, .extend2 h2 p {
+  color: blueviolet;
+  font-size: 18px;
+  background-color: black;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* line 21, ../../../OneDrive/Escritorio/sass/scss/sass2.scss */
+.extend2 h2 {
+  background-color: red;
+}
+
+/* line 31, ../../../OneDrive/Escritorio/sass/scss/sass2.scss */
+.extend2 {
+  width: 500px;
+  heigth: 500px;
+}
+
+/*# sourceMappingURL=sass2.css.map */
